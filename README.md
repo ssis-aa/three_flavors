@@ -1,6 +1,8 @@
 # three_flavors
 These are three programs that each has the same output on hardware, but includes different implementation in software.
 
+More details in the video [W6-3 - Introduction to State Machine Programming](https://youtu.be/FPyg7os2Cbw)
+
 ## Circuit Playground Expess [from Adafruit](https://learn.adafruit.com/adafruit-circuit-playground-express) - CircuitPython
 
 ``` py
